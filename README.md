@@ -9,7 +9,8 @@ Once your account is active you need to get it enabled by the WannaSpeak support
 To be fully enabled you will have to provide us the different domain names we will new to authorize so your phone numbers can be swapped by our JavaScript lib.
 
 The standard and unique JavaScript tag is presented in the image below:
+![image](https://github.com/wannaspeak/DynamicCallTracking-GTM-template/blob/master/javascript-diddyn.png)
 
 
-
+Once your account is active and enabled you can define your tag the appropriate trigger and save for publishing in your Google Tag Manager container.
 
