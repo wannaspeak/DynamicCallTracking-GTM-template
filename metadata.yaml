@@ -17,5 +17,5 @@ homepage: "https://www.wannaspeak.com"
 documentation: "https://github.com/wannaspeak/DynamicCallTracking-GTM-template/blob/master/README.md"
 versions:
 # Latest Version
-- sha: 60f5f4a3b562d956827eb1652c78306d3405dbde
+- sha: de8d99c16f6a5a2cd0f6ff134d7e8821b42d4c0d
   changeNotes: Initial Version.
