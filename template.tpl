@@ -29,3 +29,16 @@ ___INFO___
     "WEB"
   ]
 }
+
+
+___TEMPLATE_PARAMETERS___
+
+[
+  {
+    "type": "TEXT",
+    "name": "LibraryURL",
+    "displayName": "Library URL",
+    "simpleValueType": true,
+    "defaultValue": "https://cdn.wannaspeak.com/lib/did.js"
+  }
+]
